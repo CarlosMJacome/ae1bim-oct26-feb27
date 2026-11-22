@@ -1,0 +1,18 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Configuracion local de VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Base de datos SQLite
+# Se conserva veterinaria.db para la entrega academica
